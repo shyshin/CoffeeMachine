@@ -26,9 +26,11 @@ you can run the runner.py:
    1. prepare_beverage <beverage_name>
 
 This will prepare the beverage after checking if coffee machine items are sufficient to fulfill this request. If indicator is red for an item, error would raised indicating which item requires refill.
+   
    2. refill_item <item_name>
 
 Refill item to the original capacity
+   
    3. exit
 
 Exit the program
